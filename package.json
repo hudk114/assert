@@ -1,0 +1,22 @@
+{
+  "name": "@hudk/assert",
+  "version": "0.1.0",
+  "description": "assert for hudk",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudk114/assert.git"
+  },
+  "keywords": [
+    "assert"
+  ],
+  "author": "hudk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudk114/assert/issues"
+  },
+  "homepage": "https://github.com/hudk114/assert#readme"
+}
